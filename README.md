@@ -1,4 +1,4 @@
-# atplay-holdings
+# AtPlay Holdings
 At Play Holdings Client Information Management System
 
 #The Solution is a Spring Boot Micro Service (REST API)
